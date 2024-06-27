@@ -38,6 +38,7 @@ See CONTRIBUTING.md for more details and instructions.
 - [POSIX](https://pub.dev/packages/posix) - Exposes the POSIX api on OSx and Linux
 - [snapd](https://pub.dev/packages/snapd) - Provides a client to access snapd, which allows you to manage, search and install snaps on a Linux system.
 - [UDisks](https://pub.dev/packages/udisks) - Provides a client to connect to UDisks - the service that accesses and manipulates disks, storage devices and technologies on Linux.
+- [Unix Single Instance](https://pub.dev/packages/unix_single_instance) - Ensure you maintain a single compy of your application on a unix (Linux, Mac) desktop
 - [UPower](https://pub.dev/packages/upower) - Provides a client to connect to UPower - the service that does power management on Linux.
 - [Window Decorations](https://pub.dev/packages/window_decorations) - Deprecated, use https://pub.dev/packages/titlebar_buttons
 - [XDG directories](https://pub.dev/packages/xdg_directories) - A Dart package for reading XDG directory configuration information on Linux.
