@@ -62,6 +62,9 @@ packages:
   - name: UPower
     pub: upower
     github: canonical/upower.dart
+  - name: Unix Single Instance
+    pub: unix_single_instance
+    github: arran4/dart_unix_single_instance.dart
   - name: Window Decorations
     pub: window_decorations
     github: gtk-flutter/window_decorations
